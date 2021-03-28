@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     marginBottom: moderateScale(10),
     height: moderateScale(250),
-    padding: moderateScale(5),
+    paddingVertical: moderateScale(5),
   },
   errorText: {
     textAlign: 'center',

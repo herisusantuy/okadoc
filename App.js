@@ -36,7 +36,7 @@ const App = () => {
           return false;
         }
         if (inputArr.length > 1) {
-          setErrMsg(`Please positive number!`);
+          setErrMsg(`Please input positive number!`);
           return false;
         }
       } else {

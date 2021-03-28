@@ -1,0 +1,294 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapShot 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 28.115942028985508,
+      "paddingHorizontal": 14.057971014492754,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "height": 281.15942028985506,
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../js/assets/okadoc_logo.png",
+        }
+      }
+      style={
+        Object {
+          "height": 126.52173913043478,
+          "resizeMode": "center",
+          "width": "90%",
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "color": "#52C7D5",
+          "fontSize": 33.73913043478261,
+          "fontWeight": "bold",
+          "marginBottom": 21.086956521739133,
+          "textAlign": "center",
+        }
+      }
+    >
+      Technical Test
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 421.7391304347826,
+          "justifyContent": "space-between",
+          "paddingHorizontal": 21.086956521739133,
+        },
+        Object {
+          "justifyContent": "flex-end",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "justifyContent": "center",
+          "paddingBottom": 21.086956521739133,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../js/assets/doctor.png",
+          }
+        }
+        style={
+          Object {
+            "height": "95%",
+            "resizeMode": "center",
+            "width": "100%",
+          }
+        }
+      />
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      onChangeText={[Function]}
+      placeholder="Please input your number..."
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "borderColor": "skyblue",
+          "borderRadius": 7.028985507246377,
+          "borderWidth": 1,
+          "padding": 14.057971014492754,
+        }
+      }
+      underlineColorAndroid="transparent"
+      value={null}
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+        "height": 421.7391304347826,
+        "justifyContent": "center",
+        "marginVertical": 28.115942028985508,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#186C62",
+          "borderRadius": 7.028985507246377,
+          "height": 70.28985507246377,
+          "justifyContent": "center",
+          "marginRight": 7.028985507246377,
+          "marginVertical": 7.028985507246377,
+          "opacity": 1,
+          "width": "45%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Multiply X & Y
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#1361A2",
+          "borderRadius": 7.028985507246377,
+          "height": 70.28985507246377,
+          "justifyContent": "center",
+          "marginRight": 7.028985507246377,
+          "marginVertical": 7.028985507246377,
+          "opacity": 1,
+          "width": "45%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Sum X & Y
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FCC004",
+          "borderRadius": 7.028985507246377,
+          "height": 70.28985507246377,
+          "justifyContent": "center",
+          "marginRight": 7.028985507246377,
+          "marginVertical": 7.028985507246377,
+          "opacity": 1,
+          "width": "45%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        First N Prime
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#F80701",
+          "borderRadius": 7.028985507246377,
+          "height": 70.28985507246377,
+          "justifyContent": "center",
+          "marginRight": 7.028985507246377,
+          "marginVertical": 7.028985507246377,
+          "opacity": 1,
+          "width": "45%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        First N Fibonacci
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Custom Button snapShot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#F80701",
+      "borderRadius": 7.028985507246377,
+      "height": 70.28985507246377,
+      "justifyContent": "center",
+      "marginRight": 7.028985507246377,
+      "marginVertical": 7.028985507246377,
+      "opacity": 1,
+      "width": "45%",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontWeight": "bold",
+      }
+    }
+  />
+</View>
+`;
